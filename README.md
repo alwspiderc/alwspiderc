@@ -1,4 +1,5 @@
-### Sejam bem-vindos ao meu perfil 👋
+### Olá, meu nome é Ester! 
+### Seja bem-vinda(o) ao meu pefil 👋
 
 <p align="center">
   <img align="center"
